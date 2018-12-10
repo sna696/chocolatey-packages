@@ -12,7 +12,7 @@
     </description>
     <packageSourceUrl>https://github.com/sna696/chocolatey-pnotes</packageSourceUrl>
     <projectUrl>https://pnotes.sourceforge.io</projectUrl>
-    <iconUrl>https://pnotes.sourceforge.io/images/favicon.ico</iconUrl>
+    <iconUrl>https://github.com/sna696/chocolatey-packages/blob/master/pnotes/icon.png?raw=true</iconUrl>
     <bugTrackerUrl>https://sourceforge.net/p/pnotes/bugs/</bugTrackerUrl>
     <docsUrl>https://sourceforge.net/p/pnotes/wiki/Home/</docsUrl>
     <tags>notes</tags>
