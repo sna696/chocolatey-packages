@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>pnotes</id>
+    <title>PNotes (Install)</title>
+    <version>9.3.0</version>
+    <authors>Andrey Gruber</authors>
+    <owners>sna696</owners>
+    <summary>A light-weight notes manager</summary>
+    <description>
+		PNotes is light-weight, flexible, skinnable manager of virtual notes on your desktop. It supports multiple languages, individual note's settings, transparency and scheduling. PNotes leave no traces in registry.
+    </description>
+    <projectUrl>https://pnotes.sourceforge.io</projectUrl>
+    <iconUrl>https://pnotes.sourceforge.io/images/favicon.ico</iconUrl>
+    <bugTrackerUrl>https://sourceforge.net/p/pnotes/bugs/</bugTrackerUrl>
+    <docsUrl>https://sourceforge.net/p/pnotes/wiki/Home/</docsUrl>
+    <tags>notes</tags>
+    <copyright>© 2018 PNotes</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>
+		https://pnotes.sourceforge.io/index.php?page=4
+    </releaseNotes>
+    <dependencies>
+      <dependency id="dotnet4.5" />
+    </dependencies>
+  </metadata>
+</package>
